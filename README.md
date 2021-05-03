@@ -1,0 +1,2 @@
+# MAC-PHY-packet
+Your goal is to design an acoustics based (audio signals used for transmission) communication stack: PHY and basic MAC for sending and receiving information between these two devices. You are free to use any modulation techniques, and also use frequencies above 16kHz in the inaudible band to avoid collisions with ambient sounds. The devices can send and receive until 21-22 kHz. Tweak with the modulation techniques, or introduce other compression algorithms to lower the bit error rate and latency.
