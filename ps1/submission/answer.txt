@@ -1,0 +1,19 @@
+Decode message : the monster association headquarters is in city z and the password is silver
+Centroids of coordinates of monster locations
+
+ans = 1×2    
+   52.0694   46.0712
+
+ans = 1×2    
+   80.0096  217.0694
+
+ans = 1×2    
+  154.9848  335.0065
+
+ans = 1×2    
+  246.9952  211.0418
+
+ans = 1×2    
+  333.0379  337.0597
+
+Name of city z

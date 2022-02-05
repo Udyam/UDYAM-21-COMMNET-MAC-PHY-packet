@@ -1,0 +1,2 @@
+000  :001 i:010 s:0110 a:11011 d:0111 e:1001 n:1010 o:1011 r:1100 t:11010 c:1000 h:1111110 l:111000 m:111001 p:111010 q:1111111 u:111011 v:111110 w:111101 y
+the monster association is in city z and password is silver
